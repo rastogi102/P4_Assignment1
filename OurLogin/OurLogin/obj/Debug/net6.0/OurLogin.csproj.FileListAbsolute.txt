@@ -1,0 +1,12 @@
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\bin\Debug\net6.0\OurLogin.deps.json
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\bin\Debug\net6.0\OurLogin.dll
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\bin\Debug\net6.0\OurLogin.pdb
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\obj\Debug\net6.0\OurLogin.csproj.AssemblyReference.cache
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\obj\Debug\net6.0\OurLogin.GeneratedMSBuildEditorConfig.editorconfig
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\obj\Debug\net6.0\OurLogin.AssemblyInfoInputs.cache
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\obj\Debug\net6.0\OurLogin.AssemblyInfo.cs
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\obj\Debug\net6.0\OurLogin.csproj.CoreCompileInputs.cache
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\obj\Debug\net6.0\OurLogin.dll
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\obj\Debug\net6.0\refint\OurLogin.dll
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\obj\Debug\net6.0\OurLogin.pdb
+F:\TrainingStuff\P4_DotNetApplicationTesting\Assignments\DAY-1\OurLogin\OurLogin\obj\Debug\net6.0\ref\OurLogin.dll
